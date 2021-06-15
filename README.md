@@ -1,5 +1,5 @@
 # kijiji_scraper
-It's a Scrapy(Python) based script to scrape Kijiji which is a Canadian and Italian online classified advertising websites that operates as a centralized network of online communities, organized by city and urban region, for posting local advertisements. 
+It's a Scrapy(Python) based script to scrape kijiji.ca which is a Canadian and Italian online classified advertising websites that operates as a centralized network of online communities, organized by city and urban region, for posting local advertisements. 
 
 # Requirements:
 - Python
