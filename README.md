@@ -9,6 +9,6 @@ It's a Scrapy(Python) based script to scrape kijiji.ca which is a Canadian and I
 - Change URL at line no. 15
 - Run the Script and it will generate the output file
 
-Thanks & Regards
-M Talha
-@talhapythonist
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
